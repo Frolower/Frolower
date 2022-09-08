@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Frolower
+- 👀 I’m interested in computer scince, autosport and cyberpunk
+- 🌱 I’m currently learning in Gonzaga University
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: frolowir@gmail.com
