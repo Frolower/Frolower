@@ -28,7 +28,7 @@ Current Stack includes HTML, CSS, JS, and React for frontend. Golang for backend
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 
 <h3>Backend</h3>
-<a href=""><picture><source srcset="https://cdn.simpleicons.org/cplusplus/#00599C"><img alt="C++" title="C++" height="36" width="36" src="https://cdn.simpleicons.org/cplusplus"></picture></a>
+<a href=""><source srcset="https://cdn.simpleicons.org/cplusplus/#00599C"><img alt="C++" title="C++" height="36" width="36" src="https://cdn.simpleicons.org/cplusplus"></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a> 
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> 
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
@@ -39,15 +39,15 @@ Current Stack includes HTML, CSS, JS, and React for frontend. Golang for backend
 <a href="" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="36" height="36" /></a>  
 
 <h3>Software</h3>
-<a href=""><picture><source srcset="https://cdn.simpleicons.org/adobephotoshop/#31A8FF"><img alt="Photoshop" title="Photoshop" height="36" width="36" src="https://cdn.simpleicons.org/adobephotoshop"></picture></a> 
+<a href=""><source srcset="https://cdn.simpleicons.org/adobephotoshop/#31A8FF"><img alt="Photoshop" title="Photoshop" height="36" width="36" src="https://cdn.simpleicons.org/adobephotoshop"></a> 
 <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/></a>
 
 ## Socials
 <a href="https://github.com/frolower"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/#181717"><img alt="Github" title="Github" height="36" width="36" src="https://cdn.simpleicons.org/github"></picture></a>
-<a href="https://www.linkedin.com/in/dubinin-nikita/"><picture><source srcset="https://cdn.simpleicons.org/linkedin/#0A66C2"><img alt="Linkedin" title="Linkedin" height="36" width="36" src="https://cdn.simpleicons.org/linkedin"></picture></a>
-<a href="https://www.instagram.com/dubinin_11"><picture><source srcset="https://cdn.simpleicons.org/instagram/#E4405F"><img alt="Instagram" title="Instagram" height="36" width="36" src="https://cdn.simpleicons.org/instagram"></picture></a>
-<a href="https://t.me/frolower"><picture><source srcset="https://cdn.simpleicons.org/telegram/#26A5E4"><img alt="Telegram" title="Telegram" height="36" width="36" src="https://cdn.simpleicons.org/telegram"></picture></a>
-<a href="https://vk.com/frolower"><picture><source srcset="https://cdn.simpleicons.org/vk/#0077FF"><img alt="Vk" title="Vk" height="36" width="36" src="https://cdn.simpleicons.org/vk"></picture></a>
+<a href="https://www.linkedin.com/in/dubinin-nikita/"><source srcset="https://cdn.simpleicons.org/linkedin/#0A66C2"><img alt="Linkedin" title="Linkedin" height="36" width="36" src="https://cdn.simpleicons.org/linkedin"></a>
+<a href="https://www.instagram.com/dubinin_11"><source srcset="https://cdn.simpleicons.org/instagram/#E4405F"><img alt="Instagram" title="Instagram" height="36" width="36" src="https://cdn.simpleicons.org/instagram"></a>
+<a href="https://t.me/frolower"><source srcset="https://cdn.simpleicons.org/telegram/#26A5E4"><img alt="Telegram" title="Telegram" height="36" width="36" src="https://cdn.simpleicons.org/telegram"></a>
+<a href="https://vk.com/frolower"><source srcset="https://cdn.simpleicons.org/vk/#0077FF"><img alt="Vk" title="Vk" height="36" width="36" src="https://cdn.simpleicons.org/vk"></a>
 
 ## 😂 Random Dev Meme
 <div align="center"><img src='https://randommeme-five.vercel.app/' style="height: 400px;"/></div>
