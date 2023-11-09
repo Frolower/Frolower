@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I am an international student, majoring in Computer Science with concentration in Software Engineering at Gonzaga University. I am passioned about web3 technologies and blockchain. Currently I'm learnin Golang and looking for an internship in it.
+I am an international student, majoring in Computer Science with concentration in Software Engineering at Gonzaga University. I am passioned about web3 technologies and blockchain. Currently I'm learning Golang and looking for an internship in it.
 
 ## 🧐 About me
 
