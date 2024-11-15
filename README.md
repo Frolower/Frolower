@@ -48,3 +48,7 @@ Current Stack includes HTML, CSS, JS, and React for frontend. Golang for backend
 <a href="https://www.instagram.com/dubinin_11"><source srcset="https://cdn.simpleicons.org/instagram/#E4405F"><img alt="Instagram" title="Instagram" height="36" width="36" src="https://cdn.simpleicons.org/instagram"></a>
 <a href="https://t.me/frolower"><source srcset="https://cdn.simpleicons.org/telegram/#26A5E4"><img alt="Telegram" title="Telegram" height="36" width="36" src="https://cdn.simpleicons.org/telegram"></a>
 <a href="https://vk.com/frolower"><source srcset="https://cdn.simpleicons.org/vk/#0077FF"><img alt="Vk" title="Vk" height="36" width="36" src="https://cdn.simpleicons.org/vk"></a>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=frolower&&style=flat-square" align="center" />
+</div>  
