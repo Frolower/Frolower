@@ -1,5 +1,5 @@
 <h1>Hello 👋, my name is Nikita Dubinin</h1>
-<h2>Software Engineer</h2>
+## Software Engineer
 
 ## Introduction
 
@@ -13,6 +13,7 @@ I am an international student, majoring in Computer Science with concentration i
 
 ## My projects
 
+<section>
 <h3><a href="https://github.com/Frolower/Ariadne-management.git">Ariadne Management</a></h3>
 A web app project originally created for a CPSC321 Database Management Systems class.
 <ul>
@@ -29,14 +30,19 @@ A web app project originally created for a CPSC321 Database Management Systems c
     <strong>Tech stack</strong>: React, SASS, Golang, Gin, PostgresQL
   </li>
 </ul>
+</section>
 
+<section>
 <h3><a href="https://github.com/Macbee280/CrimsonCode2023.git">Crimson Code Moll-E</a>, February 18, 2023</h3><br>
 My team participated in the WSU Crimson Code hackathon won among tier 1 teams by building an AI voice assistant inspired by JARVIS from the Iron Man<br>
-https://devpost.com/software/artificial-intelligence-personal-assistant<br><br>
+https://devpost.com/software/artificial-intelligence-personal-assistant
+</section>
 
+<section>
 <h3><a href="https://github.com/Frolower/DiceDasher">DiceDasher</a></h3>
 This project inspired by my passion about TTRPGs and web programming. Unfortynatelly, its hard for me to play with my friends offline and this web based application should solve this issue. It will provide huge functional for both players and GM by having dedicated pre built rooms for different games and content, specific to them.<br>
 Current Stack includes HTML, CSS, JS, and React for frontend. Golang for backend. MongoDB for data storage.
+</section>
 
 ## Skills
 
