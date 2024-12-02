@@ -1,8 +1,9 @@
 <h1>Hello 👋, my name is Nikita Dubinin</h1>
+<h2>Software Engineer</h2>
 
 ## Introduction
 
-I am an international student, majoring in Computer Science with concentration in Software Engineering at Gonzaga University. I am passioned about web3 technologies and blockchain. Currently I'm learning Golang and looking for an internship in it.
+I am an international student, majoring in Computer Science with concentration in Software Engineering at Gonzaga University. I am passioned about web3 technologies and blockchain. Currently I'm learning Golang and looking for internships that will help me further progress as a developer.
 
 ## 🧐 About me
 
@@ -12,7 +13,24 @@ I am an international student, majoring in Computer Science with concentration i
 
 ## My projects
 
-<h3><a href="https://devpost.com/software/artificial-intelligence-personal-assistant">Crimson Code Moll-E</a>, February 18, 2023</h3><br>
+<h3><a href="https://github.com/Frolower/Ariadne-management.git">Ariadne Management</a></h3>
+A web app project originally created for a CPSC321 Database Management Systems class.
+<ul>
+  <li>
+    <strong>Design approach</strong>: the main focus was made on maintaining the project modular and easy to maintain by separating functions into different packages on a backend and by separating   reusable elements into different components on the frontend side.
+  </li>
+  <li>
+    <strong>Functionality</strong>: The app allows users to create a team, store information about it like cars owed, staff hired, championships participated in and other significant data like history of stages, sessions, laps, parts, tires and setups assigned to a specific car, leading to a simplified process of team management.
+  </li>
+  <li>
+    <strong>Challenges</strong>: The initial project was built in a short amount of time with low to zero knowledge of technologies leading to a lot of searching and self education.
+  </li>  
+  <li>
+    <strong>Tech stack</strong>: React, SASS, Golang, Gin, PostgresQL
+  </li>
+</ul>
+
+<h3><a href="https://github.com/Macbee280/CrimsonCode2023.git">Crimson Code Moll-E</a>, February 18, 2023</h3><br>
 My team participated in the WSU Crimson Code hackathon won among tier 1 teams by building an AI voice assistant inspired by JARVIS from the Iron Man<br>
 https://devpost.com/software/artificial-intelligence-personal-assistant<br><br>
 
@@ -26,11 +44,18 @@ Current Stack includes HTML, CSS, JS, and React for frontend. Golang for backend
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> 
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> 
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 
 <h3>Backend</h3>
-<a href=""><source srcset="https://cdn.simpleicons.org/cplusplus/#00599C"><img alt="C++" title="C++" height="36" width="36" src="https://cdn.simpleicons.org/cplusplus"></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a> 
-<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> 
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+<a href=""><source srcset="https://cdn.simpleicons.org/cplusplus/#00599C"><img alt="C++" title="C++" height="36" width="36" src="https://cdn.simpleicons.org/cplusplus"></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+
+<h3>Databases</h3>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 
 <h3>DevOps</h3>
@@ -39,8 +64,8 @@ Current Stack includes HTML, CSS, JS, and React for frontend. Golang for backend
 <a href="" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="36" height="36" /></a>  
 
 <h3>Software</h3>
-<a href=""><source srcset="https://cdn.simpleicons.org/adobephotoshop/#31A8FF"><img alt="Photoshop" title="Photoshop" height="36" width="36" src="https://cdn.simpleicons.org/adobephotoshop"></a> 
 <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/></a>
+<a href=""><source srcset="https://cdn.simpleicons.org/adobephotoshop/#31A8FF"><img alt="Photoshop" title="Photoshop" height="36" width="36" src="https://cdn.simpleicons.org/adobephotoshop"></a> 
 
 ## Socials
 <a href="https://github.com/frolower"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/#181717"><img alt="Github" title="Github" height="36" width="36" src="https://cdn.simpleicons.org/github"></picture></a>
