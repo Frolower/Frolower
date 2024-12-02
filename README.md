@@ -1,15 +1,4 @@
-<div id="toc">
-  <ul style="list-style: none">
-    <summary>
-      <h1> Hello 👋, my name is Nikita Dubinin </h1>
-      <br>
-      <h2> Software Engineer </h2>
-    </summary>
-  </ul>
-</div>
-
-<p style="font-size: 36px;">Hello 👋, my name is Nikita Dubinin</p>
-<p style="font-size: 24px;">Software Engineer</p>
+# Hello 👋, my name is Nikita Dubinin
 
 ## Introduction
 
@@ -17,6 +6,7 @@ I am an international student, majoring in Computer Science with concentration i
 
 ## 🧐 About me
 
+- 💻 Software Engineer
 - 🎲 Tabletop games enjoyer
 - 🧙‍♂️ Gamemaster with huge collection of different TTRPGs
 - 🏎️ Professional racing car driver
@@ -25,7 +15,7 @@ I am an international student, majoring in Computer Science with concentration i
 
 <section>
 <h3><a href="https://github.com/Frolower/Ariadne-management.git">Ariadne Management</a></h3>
-A web app project originally created for a CPSC321 Database Management Systems class.
+A web app project originally created for a CPSC321 Database Management Systems class. I was motivated by my passion for programming and car racing, and the goal is to create a product that could realistically be used in the industry to simplify management and data storage.
 <ul>
   <li>
     <strong>Design approach</strong>: the main focus was made on maintaining the project modular and easy to maintain by separating functions into different packages on a backend and by separating   reusable elements into different components on the frontend side.
