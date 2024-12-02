@@ -8,8 +8,8 @@
   </ul>
 </div>
 
-<p style="font-size: 36px">Hello 👋, my name is Nikita Dubinin</p>
-<p style="font-size: 24px">Software Engineer</p>
+<p style="font-size: 36px;">Hello 👋, my name is Nikita Dubinin</p>
+<p style="font-size: 24px;">Software Engineer</p>
 
 ## Introduction
 
