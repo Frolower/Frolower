@@ -1,5 +1,5 @@
-<h1>Hello 👋, my name is Nikita Dubinin</h1>
-## Software Engineer
+# Hello 👋, my name is Nikita Dubinin
+<h2>Software Engineer</h2>
 
 ## Introduction
 
@@ -33,7 +33,7 @@ A web app project originally created for a CPSC321 Database Management Systems c
 </section>
 
 <section>
-<h3><a href="https://github.com/Macbee280/CrimsonCode2023.git">Crimson Code Moll-E</a>, February 18, 2023</h3><br>
+<h3><a href="https://github.com/Macbee280/CrimsonCode2023.git">Crimson Code Moll-E</a>, February 18, 2023</h3>
 My team participated in the WSU Crimson Code hackathon won among tier 1 teams by building an AI voice assistant inspired by JARVIS from the Iron Man<br>
 https://devpost.com/software/artificial-intelligence-personal-assistant
 </section>
