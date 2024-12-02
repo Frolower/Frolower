@@ -8,6 +8,9 @@
   </ul>
 </div>
 
+<p style="font-size: 36px">Hello 👋, my name is Nikita Dubinin</p>
+<p style="font-size: 24px">Software Engineer</p>
+
 ## Introduction
 
 I am an international student, majoring in Computer Science with concentration in Software Engineering at Gonzaga University. I am passioned about web3 technologies and blockchain. Currently I'm learning Golang and looking for internships that will help me further progress as a developer.
