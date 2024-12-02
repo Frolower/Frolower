@@ -1,5 +1,5 @@
 # Hello 👋, my name is Nikita Dubinin
-<h2>Software Engineer</h2>
+## Software Engineer
 
 ## Introduction
 
