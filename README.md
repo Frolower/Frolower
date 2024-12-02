@@ -2,11 +2,10 @@
   <ul style="list-style: none">
     <summary>
       <h1> Hello 👋, my name is Nikita Dubinin </h1>
+      <h2> Software Engineer </h2>
     </summary>
   </ul>
 </div>
-
-<h2 style="margin-top: 0px">Software Engineer</h2>
 
 ## Introduction
 
