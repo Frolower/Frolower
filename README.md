@@ -27,7 +27,7 @@ A web app project originally created for a CPSC321 Database Management Systems c
     <strong>Challenges</strong>: The initial project was built in a short amount of time with low to zero knowledge of technologies leading to a lot of searching and self education.
   </li>  
   <li>
-    <strong>Tech stack</strong>: React, SASS, Golang, Gin, PostgresQL
+    <strong>Tech stack</strong>: React, SASS, Golang, Gin, PostgreSQL
   </li>
 </ul>
 </section>
