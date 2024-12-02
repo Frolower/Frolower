@@ -6,7 +6,7 @@
   </ul>
 </div>
 
-<h2 style="margin-top: 0">Software Engineer</h2>
+<h2 style="margin-top: 0px">Software Engineer</h2>
 
 ## Introduction
 
