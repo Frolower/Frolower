@@ -34,8 +34,7 @@ A web app project originally created for a CPSC321 Database Management Systems c
 
 <section>
 <h3><a href="https://github.com/Macbee280/CrimsonCode2023.git">Crimson Code Moll-E</a>, February 18, 2023</h3>
-My team participated in the WSU Crimson Code hackathon won among tier 1 teams by building an AI voice assistant inspired by JARVIS from the Iron Man<br>
-https://devpost.com/software/artificial-intelligence-personal-assistant
+My team participated in the WSU Crimson Code hackathon won among tier 1 teams by building an <a href="https://devpost.com/software/artificial-intelligence-personal-assistant">AI voice assistant</a> inspired by JARVIS from the Iron Man<br>
 </section>
 
 <section>
