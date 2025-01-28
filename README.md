@@ -33,6 +33,25 @@ A web app project originally created for a CPSC321 Database Management Systems c
 </section>
 
 <section>
+<h3><a href="https://github.com/Frolower/Orion-scheduling.git">Orion Scheduling</a></h3>
+A web app project was created for a CPSC332 Web Development class. The purpose of this project is to make it simpler for me and my friends to schedule meetings.
+<ul>
+  <li>
+    <strong>Design approach</strong>: The main focus was made on maintaining the project modular and easy to maintain by separating functions into different packages on a backend.
+  </li>
+  <li>
+    <strong>Functionality</strong>: The app allows users to create a timetable and share it with their friends to find overlaps in their free time.
+  </li>
+  <li>
+    <strong>Challenges</strong>: A small amount of time to build the project, a new backend tech stack, and difficult design decisions.
+  </li>  
+  <li>
+    <strong>Tech stack</strong>: React, CSS, Node.js, Express, PostgreSQL
+  </li>
+</ul>
+</section>
+
+<section>
 <h3><a href="https://github.com/Macbee280/CrimsonCode2023.git">Crimson Code Moll-E</a>, February 18, 2023</h3>
 My team participated in the WSU Crimson Code hackathon won among tier 1 teams by building an <a href="https://devpost.com/software/artificial-intelligence-personal-assistant">AI voice assistant</a> inspired by JARVIS from the Iron Man<br>
 </section>
