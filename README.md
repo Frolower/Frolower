@@ -70,19 +70,23 @@ Won first place in the Tier 1 category at WSU's Crimson Code 2023 hackathon as p
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
-    <img alt="GitHub" title="GitHub" width="36" height="36" src="https://cdn.simpleicons.org/github/181717">
+    <img alt="GitHub" title="GitHub" width="36" height="36" src="https://cdn.simpleicons.org/github/white">
   </picture>
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/dubinin-nikita/">
-  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="36" height="36"/>
+  <img alt="LinkedIn" title="LinkedIn" width="36" height="36" src="https://cdn.simpleicons.org/linkedin/white">
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/dubinin_11">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" title="Instagram" width="36" height="36">
+  <img alt="Instagram" title="Instagram" width="36" height="36" src="https://cdn.simpleicons.org/instagram/E4405F">
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/frolower">
-  <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" title="Telegram" width="36" height="36">
+  <img alt="Telegram" title="Telegram" width="36" height="36" src="https://cdn.simpleicons.org/telegram/26A5E4">
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://vk.com/frolower">
-  <img src="https://cdn.simpleicons.org/vk/0077FF" alt="VK" title="VK" width="36" height="36">
+  <img alt="VK" title="VK" width="36" height="36" src="https://cdn.simpleicons.org/vk/0077FF">
 </a>
 
