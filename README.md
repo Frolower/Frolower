@@ -1,7 +1,7 @@
 # Nikita Dubinin | Software Engineer
 
-- BS Computer Science — Gonzaga University, '26
-- MSc Software Engineering with Cloud Computing — City St George's, University of London, '27
+- BS Computer Science — Gonzaga University '26
+- MSc Software Engineering with Cloud Computing — City St George's, University of London '27
 
 Interested in backend engineering, distributed systems, and cloud computing. Currently exploring service-oriented architectures and building applications with Go.
 
