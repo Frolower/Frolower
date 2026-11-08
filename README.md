@@ -74,7 +74,7 @@ Won first place in the Tier 1 category at WSU's Crimson Code 2023 hackathon as p
   </picture>
 </a>
 <a href="https://www.linkedin.com/in/dubinin-nikita/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" title="LinkedIn" width="36" height="36">
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="36" height="36"/>
 </a>
 <a href="https://www.instagram.com/dubinin_11">
   <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" title="Instagram" width="36" height="36">
