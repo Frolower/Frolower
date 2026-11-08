@@ -66,18 +66,6 @@ Won first place in the Tier 1 category at WSU's Crimson Code 2023 hackathon as p
 
 ## Socials
 
-<a href="https://github.com/frolower">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
-    <img alt="GitHub" title="GitHub" width="36" height="36" src="https://cdn.simpleicons.org/github/white">
-  </picture>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/dubinin-nikita/">
-  <img alt="LinkedIn" title="LinkedIn" width="36" height="36" src="https://cdn.simpleicons.org/linkedin/white">
-</a>
-&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/dubinin_11">
   <img alt="Instagram" title="Instagram" width="36" height="36" src="https://cdn.simpleicons.org/instagram/E4405F">
 </a>
